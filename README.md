@@ -1,6 +1,8 @@
 Word Classifer
 ==============
 
+My solution for Hola Challenge 2016 https://github.com/hola/challenge_word_classifier
+
 Directories
 -----------
 
